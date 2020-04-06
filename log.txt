@@ -1,0 +1,11 @@
+commit fa4ff03a27268c5f431d17928fc0849bc84f2bf1
+Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
+Date:   Mon Apr 6 08:18:36 2020 -0300
+
+    lista nao ordenada
+
+commit 6ca97a1328db87fd22df595db4aec5924729e4b9
+Author: LucasGma <61299761+LucasGma@users.noreply.github.com>
+Date:   Mon Apr 6 08:13:30 2020 -0300
+
+    Initial commit
