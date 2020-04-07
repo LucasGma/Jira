@@ -1,3 +1,9 @@
+commit 2367149bb7c311554d400d81655c23e668c68dbd
+Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
+Date:   Mon Apr 6 12:14:48 2020 -0300
+
+    exercicios
+
 commit b6f2a88639400ba2f4a48dc67493fa2056988517
 Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
 Date:   Mon Apr 6 08:28:50 2020 -0300
