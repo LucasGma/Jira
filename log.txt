@@ -1,3 +1,21 @@
+commit 08d33defaef2f61ca828825990f9f3ced3939e52
+Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
+Date:   Wed Apr 8 17:33:02 2020 -0300
+
+    corrigir exercicios
+
+commit 737db59cae5d340851665c2356f9a571467829c4
+Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
+Date:   Wed Apr 8 17:29:06 2020 -0300
+
+    corrigir codigo
+
+commit fd1fdd7887aa7599f27fdb202864256d2077451b
+Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
+Date:   Wed Apr 8 11:56:36 2020 -0300
+
+    gif
+
 commit 1c75028a2ec4ab62f8eb21aba936f68a95d1b169
 Author: Lucas Gustavo <lucasgma320@yahoo.com.br>
 Date:   Wed Apr 8 11:54:15 2020 -0300
